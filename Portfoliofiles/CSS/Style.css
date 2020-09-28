@@ -1,6 +1,4 @@
-body{
-  background-color: pink;
-}
+
 img{
   width:150px;
   height:200px;
@@ -68,4 +66,7 @@ h2{
 #exp{
   margin:auto;
   width:500px;
+}
+body{
+  background-color: pink;
 }
